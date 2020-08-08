@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc7e493e-63c7-49b1-b298-99706bf26e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Cal_Brain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Icon_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/result_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/reuseble_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1faRliOvlF4UpvrKEFtN6kGLOLO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc7e493e-63c7-49b1-b298-99706bf26e20" name="Default Changelist" comment="" />
+      <created>1596454372357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596454372357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="126" key="FileChooserDialogImpl" timestamp="1596886824131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596886824131" />
+    <state width="1024" height="173" key="GridCell.Tab.0.bottom" timestamp="1596890558236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1024" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596890558236" />
+    <state width="1024" height="173" key="GridCell.Tab.0.center" timestamp="1596890558234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1024" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596890558234" />
+    <state width="1024" height="173" key="GridCell.Tab.0.left" timestamp="1596890558234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1024" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596890558234" />
+    <state width="1024" height="173" key="GridCell.Tab.0.right" timestamp="1596890558236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1024" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596890558236" />
+    <state x="22" y="13" key="SettingsEditor" timestamp="1596717147287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596717147287" />
+    <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1596888667986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1596888667986" />
+    <state x="100" y="107" width="842" height="528" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596714256834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="107" width="842" height="528" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596714256834" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596887428396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596887428396" />
+    <state width="429" height="134" key="javadoc.popup.new" timestamp="1596886110429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="429" height="134" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1596886110429" />
+    <state x="177" y="168" key="run.anything.popup" timestamp="1596720343774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="177" y="168" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596720343774" />
+  </component>
+</project>
